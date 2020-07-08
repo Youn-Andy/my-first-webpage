@@ -1,5 +1,9 @@
 body{
-  background-color: coral;
+  background-color: rgb(124, 130, 207);
+  font-size: medium;
+  font-style: inherit;
+  font-family: sans-serif;
+  line-height: inherit;
 }
 h1{
   color: blue;
@@ -12,7 +16,9 @@ h2{
 }
 p{
   font-family: sans-serif;
+  text-align: justify;
 }
 ul{
   line-height: 40px
+
 }
